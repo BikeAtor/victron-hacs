@@ -1,3 +1,5 @@
+** This was created as a stopgap for the current issue with BLE sensors. **
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
 # Victron Instant Readout Integration
