@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 import logging
-from typing import Any, Dict, Optional, Tuple, Union, Callable
+from typing import Any, Callable, Dict, Optional, Tuple, Union
 
 from bluetooth_sensor_state_data import SIGNAL_STRENGTH_KEY
 from homeassistant import config_entries
