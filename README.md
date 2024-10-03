@@ -2,7 +2,7 @@
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
-# Victron Instant Readout Integration
+# Victron Instant Readout Integration (BikeAtor)
 
 This integration allows exposing data from Victron devices with Instant Readout enabled in Home Assistant.
 
