@@ -38,6 +38,6 @@ Supported Devices & Entities:
 ## HACS
 
 1. Add the integration through this link:
-   [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=lurch89&repository=victron-hacs&category=integration)
+   [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=BikeAtor&repository=victron-hacs&category=integration)
 2. Restart Home Assistant
 3. Setup integration via the integration page.
